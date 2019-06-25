@@ -19,6 +19,8 @@ triplet loss|7.57|0.68
 
 # Reference
 https://github.com/davidsandberg/facenet
+
 https://github.com/adambielski/siamese-triplet
+
 https://github.com/v-iashin/VoxCeleb
 
