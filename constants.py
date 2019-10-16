@@ -14,7 +14,7 @@ embedding_dim = 256    # or 128
 batch_size = 64
 num_workers = 16
 # If GPU memory is not enough, you can decrease `n_classes` or `n_samples`
-n_classes = 30
+n_classes = 60
 n_samples = 10
 pretrain_lr_init = 0.01
 pretrain_lr_last = 0.0001
